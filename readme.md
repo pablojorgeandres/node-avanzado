@@ -2,7 +2,7 @@ Este es un pequeño examen para saber tus conocimientos de JavaScript y NodeJS.
 
 Para el examen usamos una aplicación express muy sencilla y consta de los siguientes puntos: 
 
-	1- Se perdió el archivo con la info del proyecto. Crearlo y e instalar todos los módulos necesarios.
+	1- Se perdió el archivo con la info del proyecto. Crearlo e instalar todos los módulos necesarios.
 
 	2- La aplicación no levanta. Tenés que ver por qué y hacerla correr.
 
